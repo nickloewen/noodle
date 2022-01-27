@@ -26,8 +26,8 @@ div.key {
   user-select: none;
   color: $text;
   background-color: $key;
-  width: 40px;
-  height: 60px;
+  width: 35px;
+  height: 55px;
   border-radius: 5px;
   display: grid;
   place-items: center;

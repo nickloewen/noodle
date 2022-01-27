@@ -18,9 +18,9 @@ main {
   justify-content: center;
 }
 section {
-  width: 340px;
+  /* width: 320px; */
   display: grid;
-  gap: 10px;
+  gap: 5px;
   grid-template-columns: repeat(5, 1fr);
 }
 </style>

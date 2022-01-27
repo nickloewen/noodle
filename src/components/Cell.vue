@@ -65,8 +65,8 @@ watch(
 <style lang="scss" scoped>
 div {
   user-select: none;
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   border: 1px solid $border;
   color: $text;
   font-size: 2rem;
