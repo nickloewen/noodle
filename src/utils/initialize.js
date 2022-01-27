@@ -14,7 +14,6 @@ export const initializeKeyboard = () => {
 };
 
 export const getRandomWord = () => {
-  // console.log( 'random word in initialize.js', common[Math.floor(Math.random() * common.length)] );
-  // return common[Math.floor(Math.random() * common.length)];
-  return "penne";
+  // return "penne";
+  return common[Math.floor(Math.random() * common.length)];
 };
