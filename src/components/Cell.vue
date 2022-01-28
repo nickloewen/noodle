@@ -72,6 +72,7 @@ div {
   font-size: 2rem;
   display: grid;
   place-items: center;
+  text-transform: lowercase;
 }
 div.animate {
   animation: scale 0.1s;

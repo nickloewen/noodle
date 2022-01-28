@@ -31,6 +31,7 @@ div.key {
   border-radius: 5px;
   display: grid;
   place-items: center;
+  text-transform: lowercase;
   &:hover {
     opacity: 0.75;
   }

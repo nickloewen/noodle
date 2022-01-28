@@ -19,7 +19,7 @@ const handleKey = (event) => {
   <main class="header">
     <section>
       <span class="material-icons hide">close</span>
-      <h1>How To Play</h1>
+      <h1>How to play</h1>
       <span class="material-icons" @click="emit('close')">close</span>
     </section>
     <div class="info">

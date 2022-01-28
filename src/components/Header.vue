@@ -7,7 +7,7 @@ const props = defineProps({ gameOver: Boolean });
   <main class="header">
     <section>
       <span class="material-icons" @click="emit('open-help')">help_outline</span>
-      <h1>Noodle</h1>
+      <h1>noodle</h1>
       <span class="material-icons" :class="{ hide: !props.gameOver }" @click="emit('reset')">replay</span>
     </section>
   </main>
