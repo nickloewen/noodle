@@ -1,5 +1,7 @@
 # Noodle
 
+![a drawing of a spoonful of alphabet soup, with the letters spelling out "noodle"](public/opengraph-noodle.png)
+
 Wordle, except it's called "Noodle" and the word to guess is always the five-leter name of some kind of noodle, or noodle-based dish.
 
 This is a slight modification of [Jack Carling's clone](https://github.com/jack-carling/wordle) of [Wordle](https://www.powerlanguage.co.uk/wordle/).
@@ -10,3 +12,7 @@ This is a slight modification of [Jack Carling's clone](https://github.com/jack-
 - I included all the 5 letter words I saw on those lists
   - (where Wikipedia lists several possible names for a dish/noodle, I only included the first one)
 - I also included the 4 letter words for which Wiktionary had a page acknowledging an English plural formed by adding "-s"
+
+## Acknowledgements
+
+Big thanks to [Elizabeth Pankratz](https://github.com/epankratz) for this bad idea, to Jonathan Loewen for encouraging me to add more noodles than just "penne" (even though that version was *so* funny), and to Jack Carling for writing [the real code](https://github.com/jack-carling/wordle) that I tweaked to make this.
