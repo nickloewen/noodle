@@ -1,6 +1,6 @@
-# Noodle
+<img src="public/opengraph-noodle.png" alt="a drawing of a spoonful of alphabet soup, with the letters spelling out 'noodle'" style="width: 250px; display: block; margin-left: auto; margin-right: auto;">
 
-![a drawing of a spoonful of alphabet soup, with the letters spelling out "noodle"](public/opengraph-noodle.png)
+# Noodle
 
 Wordle, except it's called "Noodle" and the word to guess is always the five-leter name of some kind of noodle, or noodle-based dish.
 
